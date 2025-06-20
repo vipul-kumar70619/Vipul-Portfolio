@@ -51,7 +51,9 @@ body{
     color: #00abf0;
 }
 .home{
-    background: url('Vipul.jpg') no-repeat;
+.home {
+  background: url(WhatsApp\ Image\ 2025-05-06\ at\ 10.37.33_74a6c1ef.jpg) no-repeat;
+}
     background-size: cover;
     background-position: center;
     height: 100vh;
