@@ -51,7 +51,7 @@ body{
     color: #00abf0;
 }
 .home{
-    background: url('images/Vipul.jpg') no-repeat;
+    background: url('Vipul.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
