@@ -52,8 +52,8 @@ body{
 }
 
 .home {
-  background: url('images/Vipul.jpg') no-repeat;
-}
+  background: url('Vipul.jpg') no-repeat;
+
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -250,7 +250,7 @@ body{
     position: absolute;
     top: 0;
     right: 30px;
-    width: 500px;
+    width: 600px;
     height: 100%;
     background: transparent;
     transition: 3s;
